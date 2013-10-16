@@ -218,6 +218,7 @@ ROZDZIAŁ IV – KONWENT
        Władz centralnych;
     c. sprawozdanie Centralnej Komisji Rewizyjnej;
     d. sprawozdanie Rady Sygnatariuszów;
+    e. sprawozdanie Straży;
     e. dyskusja nad absolutorium dla członków Rady Głównej;
     f. głosowanie nad absolutorium dla członków Rady Głównej. Do
        zakończenia tego głosowania członkowie Rady Głównej nie mogą
